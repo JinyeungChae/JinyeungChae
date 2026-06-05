@@ -28,7 +28,7 @@
 ---
 
 ### 🚀 Recent Projects & Interests
-*   **Data Analysis**: 우크라이나 및 UAE 지역 웹 트래픽 데이터 분류 및 분석 프로젝트를 진행했습니다.
+*   **Data Analysis**: 🇺🇸 우크라이나 및 UAE 지역 웹 트래픽 데이터 분류 및 분석 프로젝트를 진행했습니다.
 *   **Image Processing**: 이미지 편집 및 분위기 최적화 작업에 관심이 많습니다.
 *   **Continuous Learning**: 2026년에도 꾸준히 커밋하며 성장 중입니다.
 
