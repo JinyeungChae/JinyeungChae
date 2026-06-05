@@ -8,7 +8,7 @@
 > 이미지 기반 활동과 데이터 분석 경험을 바탕으로 기술 스택을 구성했습니다.
 
 <p align="left">
-  <img src="https://jmimwmtkeyugnrttxwnl.supabase.co/storage/v1/object/public/public-images/country/Argentina%20-%20Traffic%20is%20people%20(1).png"/>
+  <img src=""/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
