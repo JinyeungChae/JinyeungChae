@@ -1,5 +1,5 @@
 # 🧑‍💻 Hello, I'm Jinyeung Chae!
-> I am a writer.
+> I am <a href="https://www.start-notion.com/jinyeungchae">Jinyeung Chae</a>.
 <br>
 <br>
 
