@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Jinyeung Chae!
 
 <p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff7f&height=150&section=header&text=JINYEUNG%20CHAE%20my%20GitHub&fontSize=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=150&section=header&text=JINYEUNG%20CHAE%20my%20GitHub&fontSize=50" />
 </p>
 
 ### 🛠️ Tech Stacks
