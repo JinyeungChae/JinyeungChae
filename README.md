@@ -1,5 +1,7 @@
 # 🧑‍💻 Hello, I'm Jinyeung Chae!
-
+> I am a writer.
+<br>
+<br>
 
 ## 🗃️ Current Projects
 > Currently, I am working on those projects.
@@ -18,9 +20,9 @@
 
 ---
 
-## 📊 Analysis Worldwide Data
-### 🗺️ Traffic Is People
-<p>Which categories would people find most engaging?</p>
+## 🗺️ Traffic Is People 
+### 🗃️ Analysis Categories Data
+> Which categories would people find most engaging?
 <a href="https://www.trafficispeople.com/category">
     <img src="https://jmimwmtkeyugnrttxwnl.supabase.co/storage/v1/object/public/start-notion/category_map.png" alt="Category Map" />
   </a>
@@ -28,7 +30,7 @@
 <br>
 <br>
 
-### 🌎 Worldwide
+### 📊 Analysis Worldwide Data
 <a href="https://www.trafficispeople.com/analysis">
     <img src="https://jmimwmtkeyugnrttxwnl.supabase.co/storage/v1/object/public/start-notion/world.png" alt="World Analysis" />
   </a>
