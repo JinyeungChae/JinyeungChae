@@ -4,7 +4,7 @@
 <br>
 
 ## 🗃️ Current Projects
-> Currently, I am working on those projects.
+> Currently, I am working on those projects. If you want to know more, click the projects 👇
 
 <div align="left">
   <a href="https://www.start-notion.com/article/start-notion">
