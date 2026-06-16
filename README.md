@@ -17,8 +17,11 @@
     <img src="https://jmimwmtkeyugnrttxwnl.supabase.co/storage/v1/object/public/start-notion/LIBRARY%20TRIP.png" width="200" alt="Library Trip" />
   </a>
 </div>
+<br>
+<br>
 
 ---
+<br>
 
 ## 🗺️ Traffic Is People 
 ### 🧑‍💻 Github Ranking Trends
@@ -65,5 +68,4 @@ AI-based Solopreneurs?" />
   </a>
 </div>
 
----
 
